@@ -1,7 +1,7 @@
 # bootstrap-studio
 Design layout with Bootstrap Studio 4.5.8 Standard Version
 
-d-flex display: <pagination ul, card-header with button> to use justify-content-center, justify-content-between
+d-flex display: <pagination ul, card-header with button, list group item> to use justify-content-center, justify-content-between
 
 Card columns: <phananhnhanh page> to display cards like Google Keeps 
 
